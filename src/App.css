@@ -33,11 +33,12 @@ a {
 
 }
 
-gradient__text {
+.gradient__text {
     background:var(--gradient-text);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    padding: 4rem 6rem;
 }
 
 .section__padding: {
